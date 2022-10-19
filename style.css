@@ -1,0 +1,67 @@
+body::before {
+  display: block;
+  content: '';
+  height: 60px;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+  .betty{
+    width: 50%;
+    }
+}
+
+.btn-outline-success{
+  background-color: black;
+  }
+  .navbar-brand{
+  font-size: 40px;
+  }
+  .sand{
+  background-color: dimgray!important;
+  }
+  .ada{
+  color: white;
+  border-color: darkblue;
+  }
+  .ada:hover{
+  color: whitesmoke!important;
+  background-color: darkblue !important;
+  border-color: whitesmoke;
+  }
+  .betty{
+  width: 40%;
+  margin-right: 0px;
+  }
+
+.special1{
+  background: white;
+}
+#johnman img{
+  width: 128px !important;
+}
+#footers a i{
+  color: white !important;
+}
+.heightwork{
+  height: 420px !important; 
+}
+.heightwork1{
+  height: 200px !important;
+}
+
+.akpphoto{
+  width: 140x;
+  height: 128px;
+  border-radius: 50%;
+}
+
+
